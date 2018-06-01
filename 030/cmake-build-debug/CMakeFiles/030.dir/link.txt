@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/030.dir/main.cpp.o  -o 030 
